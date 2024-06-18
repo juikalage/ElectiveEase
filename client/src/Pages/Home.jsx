@@ -53,7 +53,7 @@ const SpecialRoutesFunctionality = () => {
         <li className="text-blue-900">Add elective subject to a student</li>
         <li className="text-green-900">Add student to an elective subject</li>
         <li className="text-yellow-900">Get elective subjects for a student</li>
-        <li className="text-red-900">Edit subject of a student</li>
+        <li className="text-red-700">Edit subject of a student</li>
         <li className="text-purple-900">
           Remove elective subject from a student
         </li>
